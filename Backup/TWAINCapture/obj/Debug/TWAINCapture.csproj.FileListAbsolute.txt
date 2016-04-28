@@ -1,0 +1,31 @@
+E:\net\Backup\TWAINCapture\bin\Debug\Config\mimetypes.xml
+E:\net\Backup\TWAINCapture\bin\Debug\Capturesco 2.0.exe.config
+E:\net\Backup\TWAINCapture\bin\Debug\Capturesco 2.0.exe
+E:\net\Backup\TWAINCapture\bin\Debug\Capturesco 2.0.pdb
+E:\net\Backup\TWAINCapture\bin\Debug\zu-ZA\Capturesco 2.0.resources.dll
+E:\net\Backup\TWAINCapture\bin\Debug\Alfresco.dll
+E:\net\Backup\TWAINCapture\bin\Debug\log4net.dll
+E:\net\Backup\TWAINCapture\bin\Debug\Microsoft.Web.Services3.dll
+E:\net\Backup\TWAINCapture\bin\Debug\this.Log-log4net.dll
+E:\net\Backup\TWAINCapture\bin\Debug\this.Log.dll
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.dll
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.WinFroms.dll
+E:\net\Backup\TWAINCapture\bin\Debug\Alfresco.pdb
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.WinFroms.pdb
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.WinFroms.xml
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.pdb
+E:\net\Backup\TWAINCapture\bin\Debug\TwainDotNet.xml
+E:\net\Backup\TWAINCapture\bin\Debug\log4net.xml
+E:\net\Backup\TWAINCapture\bin\Debug\Interop.WIA.dll
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.csprojResolveAssemblyReference.cache
+E:\net\Backup\TWAINCapture\obj\Debug\Interop.WIA.dll
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.csproj.ResolveComReference.cache
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.About_cap.resources
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.login.resources
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.frmCapture.resources
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.Properties.Resources.resources
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.frmCapture.zu-ZA.resources
+E:\net\Backup\TWAINCapture\obj\Debug\TWAINCapture.csproj.GenerateResource.Cache
+E:\net\Backup\TWAINCapture\obj\Debug\zu-ZA\Capturesco 2.0.resources.dll
+E:\net\Backup\TWAINCapture\obj\Debug\Capturesco 2.0.exe
+E:\net\Backup\TWAINCapture\obj\Debug\Capturesco 2.0.pdb

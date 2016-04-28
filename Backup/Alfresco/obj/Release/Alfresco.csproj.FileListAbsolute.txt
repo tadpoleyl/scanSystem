@@ -1,0 +1,9 @@
+E:\net\Backup\Alfresco\bin\Release\Config\mimetypes.xml
+E:\net\Backup\Alfresco\bin\Release\Alfresco.dll.config
+E:\net\Backup\Alfresco\bin\Release\Alfresco.dll
+E:\net\Backup\Alfresco\bin\Release\Alfresco.XmlSerializers.dll
+E:\net\Backup\Alfresco\bin\Release\Alfresco.pdb
+E:\net\Backup\Alfresco\bin\Release\Microsoft.Web.Services3.dll
+E:\net\Backup\Alfresco\obj\Release\Alfresco.dll
+E:\net\Backup\Alfresco\obj\Release\Alfresco.pdb
+E:\net\Backup\Alfresco\obj\Release\Alfresco.XmlSerializers.dll

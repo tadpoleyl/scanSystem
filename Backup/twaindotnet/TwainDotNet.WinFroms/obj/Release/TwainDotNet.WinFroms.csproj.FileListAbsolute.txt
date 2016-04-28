@@ -1,0 +1,10 @@
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\TwainDotNet.WinFroms.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\TwainDotNet.WinFroms.pdb
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\log4net.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\this.Log-log4net.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\this.Log.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\TwainDotNet.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\bin\Release\TwainDotNet.pdb
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\obj\Release\TwainDotNet.WinFroms.csprojResolveAssemblyReference.cache
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\obj\Release\TwainDotNet.WinFroms.dll
+E:\net\Backup\twaindotnet\TwainDotNet.WinFroms\obj\Release\TwainDotNet.WinFroms.pdb

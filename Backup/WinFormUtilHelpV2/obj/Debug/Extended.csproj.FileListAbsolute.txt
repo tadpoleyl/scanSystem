@@ -1,0 +1,5 @@
+E:\net\Backup\WinFormUtilHelpV2\bin\Debug\WinFormUtilHelpV2.dll
+E:\net\Backup\WinFormUtilHelpV2\bin\Debug\WinFormUtilHelpV2.pdb
+E:\net\Backup\WinFormUtilHelpV2\obj\Debug\WinFormUtilHelpV2.dll
+E:\net\Backup\WinFormUtilHelpV2\obj\Debug\WinFormUtilHelpV2.pdb
+E:\net\Backup\WinFormUtilHelpV2\obj\Debug\Extended.csprojResolveAssemblyReference.cache

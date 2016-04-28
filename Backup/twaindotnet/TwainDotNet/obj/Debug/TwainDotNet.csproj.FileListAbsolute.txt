@@ -1,0 +1,13 @@
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\bin\Debug\TwainDotNet.XML
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\bin\Debug\TwainDotNet.dll
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\bin\Debug\TwainDotNet.pdb
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\bin\Debug\log4net.dll
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\bin\Debug\log4net.xml
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\obj\Debug\TwainDotNet.csprojResolveAssemblyReference.cache
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\obj\Debug\TwainDotNet.dll
+C:\Users\zhaojing\Downloads\twaindotnet-master\src\TwainDotNet\obj\Debug\TwainDotNet.pdb
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Debug\TwainDotNet.dll
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Debug\TwainDotNet.pdb
+E:\net\Backup\twaindotnet\TwainDotNet\obj\Debug\TwainDotNet.csprojResolveAssemblyReference.cache
+E:\net\Backup\twaindotnet\TwainDotNet\obj\Debug\TwainDotNet.dll
+E:\net\Backup\twaindotnet\TwainDotNet\obj\Debug\TwainDotNet.pdb

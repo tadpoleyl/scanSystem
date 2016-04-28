@@ -1,0 +1,7 @@
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Release\TwainDotNet.dll
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Release\TwainDotNet.pdb
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Release\log4net.dll
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Release\this.Log-log4net.dll
+E:\net\Backup\twaindotnet\TwainDotNet\bin\Release\this.Log.dll
+E:\net\Backup\twaindotnet\TwainDotNet\obj\Release\TwainDotNet.dll
+E:\net\Backup\twaindotnet\TwainDotNet\obj\Release\TwainDotNet.pdb

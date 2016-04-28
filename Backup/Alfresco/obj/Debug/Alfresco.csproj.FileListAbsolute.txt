@@ -1,0 +1,7 @@
+E:\net\Backup\Alfresco\bin\Debug\Config\mimetypes.xml
+E:\net\Backup\Alfresco\bin\Debug\Alfresco.dll.config
+E:\net\Backup\Alfresco\bin\Debug\Alfresco.dll
+E:\net\Backup\Alfresco\bin\Debug\Alfresco.pdb
+E:\net\Backup\Alfresco\bin\Debug\Microsoft.Web.Services3.dll
+E:\net\Backup\Alfresco\obj\Debug\Alfresco.dll
+E:\net\Backup\Alfresco\obj\Debug\Alfresco.pdb
